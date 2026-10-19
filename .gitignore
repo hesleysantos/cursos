@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+node_modules/
+.claude/
+
+# anotacoes internas
+/tools/REVISAO.md
+/tools/REVISAO-2.md
+/tools/CLAUDE-CODE-FONTES.md
+
+# prevencao
+.env
+*.log
